@@ -1,0 +1,385 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ABS	.\BasicDefinitions.h	105;"	d
+ABS	.\BasicDefinitions.h	76;"	d
+ABS	.\BasicDefinitions.h	89;"	d
+ASSERT	.\BasicDefinitions.h	125;"	d
+ASSERT	.\convertMNIST.cpp	5;"	d	file:
+BASICDEFINITIONS_INCLUDED	.\BasicDefinitions.h	19;"	d
+BUCKETHASHING_INCLUDED	.\BucketHashing.h	19;"	d
+BooleanT	.\BasicDefinitions.h	32;"	d
+BucketEntryT	.\BucketHashing.h	/^} BucketEntryT, *PBucketEntryT;$/;"	t	typeref:struct:_BucketEntryT
+CEIL	.\BasicDefinitions.h	109;"	d
+CEIL	.\BasicDefinitions.h	80;"	d
+CEIL	.\BasicDefinitions.h	93;"	d
+CHAIN_INIT_SIZE	.\BucketHashing.h	195;"	d
+CHAIN_RESIZE_RATIO	.\BucketHashing.h	196;"	d
+COS	.\BasicDefinitions.h	107;"	d
+COS	.\BasicDefinitions.h	78;"	d
+COS	.\BasicDefinitions.h	91;"	d
+CR_ASSERT	.\BasicDefinitions.h	129;"	d
+CR_ASSERT	.\BasicDefinitions.h	132;"	d
+CR_ASSERTWR	.\BasicDefinitions.h	130;"	d
+CR_ASSERTWR	.\BasicDefinitions.h	133;"	d
+DC	.\BasicDefinitions.h	137;"	d
+DC	.\BasicDefinitions.h	143;"	d
+DEBUG_MEM	.\BasicDefinitions.h	49;"	d
+DEBUG_OUTPUT	.\BasicDefinitions.h	62;"	d
+DEBUG_PROFILE_TIMING	.\BasicDefinitions.h	56;"	d
+DEBUG_TIMINGS	.\BasicDefinitions.h	54;"	d
+DECLARE_EXTERN	.\GlobalVars.h	22;"	d
+DECLARE_EXTERN	.\GlobalVars.h	25;"	d
+DEFAULT_MEMORY_MAX_AVAILABLE	.\BasicDefinitions.h	38;"	d
+DPRINTF	.\BasicDefinitions.h	139;"	d
+DPRINTF	.\BasicDefinitions.h	145;"	d
+DPRINTF1	.\BasicDefinitions.h	138;"	d
+DPRINTF1	.\BasicDefinitions.h	144;"	d
+DPRINTF3	.\BasicDefinitions.h	140;"	d
+DPRINTF3	.\BasicDefinitions.h	146;"	d
+DPRINTF4	.\BasicDefinitions.h	141;"	d
+DPRINTF4	.\BasicDefinitions.h	147;"	d
+ERF	.\BasicDefinitions.h	114;"	d
+ERF	.\BasicDefinitions.h	98;"	d
+ERFC	.\BasicDefinitions.h	115;"	d
+ERFC	.\BasicDefinitions.h	99;"	d
+ERROR_OUTPUT	.\BasicDefinitions.h	61;"	d
+EXP	.\BasicDefinitions.h	113;"	d
+EXP	.\BasicDefinitions.h	97;"	d
+EXTERN_INIT	.\GlobalVars.h	23;"	d
+EXTERN_INIT	.\GlobalVars.h	26;"	d
+FAILIF	.\BasicDefinitions.h	122;"	d
+FAILIFWR	.\BasicDefinitions.h	123;"	d
+FALSE	.\BasicDefinitions.h	34;"	d
+FLOOR_INT32	.\BasicDefinitions.h	108;"	d
+FLOOR_INT32	.\BasicDefinitions.h	79;"	d
+FLOOR_INT32	.\BasicDefinitions.h	92;"	d
+FPRINTF_REAL	.\BasicDefinitions.h	111;"	d
+FPRINTF_REAL	.\BasicDefinitions.h	82;"	d
+FPRINTF_REAL	.\BasicDefinitions.h	95;"	d
+FREE	.\BasicDefinitions.h	207;"	d
+FSCANF_REAL	.\BasicDefinitions.h	112;"	d
+FSCANF_REAL	.\BasicDefinitions.h	83;"	d
+FSCANF_REAL	.\BasicDefinitions.h	96;"	d
+GBucketT	.\BucketHashing.h	/^} GBucketT, *PGBucketT;$/;"	t	typeref:struct:_GBucketT
+GEOMETRY_INCLUDED	.\Geometry.h	19;"	d
+GLOBALVARS_CPP	.\GlobalVars.cpp	18;"	d	file:
+GLOBALVARS_INCLUDED	.\GlobalVars.h	19;"	d
+GeneralizedPGBucket	.\BucketHashing.h	/^} GeneralizedPGBucket;$/;"	t	typeref:union:_GeneralizedPGBucket
+HT_HYBRID_CHAINS	.\BucketHashing.h	193;"	d
+HT_LINKED_LIST	.\BucketHashing.h	187;"	d
+HT_PACKED	.\BucketHashing.h	189;"	d
+HT_STATISTICS	.\BucketHashing.h	191;"	d
+HybridChainEntryT	.\BucketHashing.h	/^} HybridChainEntryT, *PHybridChainEntryT;$/;"	t	typeref:union:_HybridChainEntryT
+INDEX_START_EMPTY	.\BucketHashing.h	89;"	d
+Int32T	.\BasicDefinitions.h	31;"	d
+IntT	.\BasicDefinitions.h	28;"	d
+LOCALITYSENSITIVEHASHING_INCLUDED	.\LocalitySensitiveHashing.h	19;"	d
+LOG	.\BasicDefinitions.h	106;"	d
+LOG	.\BasicDefinitions.h	77;"	d
+LOG	.\BasicDefinitions.h	90;"	d
+LSHFunctionT	.\LocalitySensitiveHashing.h	/^} LSHFunctionT, *PLSHFunctionT;$/;"	t	typeref:struct:_LSHFunctionT
+LinkPackedGBucketT	.\BucketHashing.h	/^} LinkPackedGBucketT, *PLinkPackedGBucketT;$/;"	t	typeref:struct:_LinkPackedGBucketT
+LongUns64T	.\BasicDefinitions.h	29;"	d
+MALLOC	.\BasicDefinitions.h	200;"	d
+MAX	.\BasicDefinitions.h	119;"	d
+MAX_HASH_RND	.\BucketHashing.h	95;"	d
+MAX_NONOVERFLOW_POINTS_PER_BUCKET	.\BucketHashing.h	61;"	d
+MAX_N_POINTS	.\BasicDefinitions.h	24;"	d
+MAX_REPORTED_POINTS	.\BasicDefinitions.h	26;"	d
+MIN	.\BasicDefinitions.h	118;"	d
+MIN_INT32T	.\BasicDefinitions.h	43;"	d
+MemVarT	.\BasicDefinitions.h	151;"	d
+NEARNEIGHBORS_INCLUDED	.\NearNeighbors.h	19;"	d
+N_BITS_FOR_BUCKET_LENGTH	.\BucketHashing.h	58;"	d
+N_BITS_PER_POINT_INDEX	.\BasicDefinitions.h	22;"	d
+N_FIELDS_PER_INDEX_OF_OVERFLOW	.\BucketHashing.h	64;"	d
+N_PRECOMPUTED_HASHES_NEEDED	.\BucketHashing.h	120;"	d
+N_SAMPLE_QUERY_POINTS	.\LSHMain.cpp	29;"	d	file:
+PARAMETER_W_DEFAULT	.\LocalitySensitiveHashing.h	22;"	d
+PBucketEntryT	.\BucketHashing.h	/^} BucketEntryT, *PBucketEntryT;$/;"	t	typeref:struct:_BucketEntryT
+PGBucketT	.\BucketHashing.h	/^} GBucketT, *PGBucketT;$/;"	t	typeref:struct:_GBucketT
+PHybridChainEntryT	.\BucketHashing.h	/^} HybridChainEntryT, *PHybridChainEntryT;$/;"	t	typeref:union:_HybridChainEntryT
+PLSHFunctionT	.\LocalitySensitiveHashing.h	/^} LSHFunctionT, *PLSHFunctionT;$/;"	t	typeref:struct:_LSHFunctionT
+PLinkPackedGBucketT	.\BucketHashing.h	/^} LinkPackedGBucketT, *PLinkPackedGBucketT;$/;"	t	typeref:struct:_LinkPackedGBucketT
+POW	.\BasicDefinitions.h	110;"	d
+POW	.\BasicDefinitions.h	81;"	d
+POW	.\BasicDefinitions.h	94;"	d
+PPackedGBucketT	.\BucketHashing.h	/^} PackedGBucketT, *PPackedGBucketT;$/;"	t	typeref:struct:_PackedGBucketT
+PPointAndRealTStructT	.\Geometry.h	/^} PPointAndRealTStructT;$/;"	t	typeref:struct:_PPointAndRealTStructT
+PPointT	.\Geometry.h	/^} PointT, *PPointT;$/;"	t	typeref:struct:_PointT
+PRNNParametersT	.\LocalitySensitiveHashing.h	/^} RNNParametersT, *PRNNParametersT;$/;"	t	typeref:struct:_RNNParametersT
+PRNearNeighborStructT	.\LocalitySensitiveHashing.h	/^} RNearNeighborStructT, *PRNearNeighborStructT;$/;"	t	typeref:struct:_RNearNeighborStructT
+PUHashStructureT	.\BucketHashing.h	/^} UHashStructureT, *PUHashStructureT;$/;"	t	typeref:struct:_UHashStructureT
+PackedGBucketT	.\BucketHashing.h	/^} PackedGBucketT, *PPackedGBucketT;$/;"	t	typeref:struct:_PackedGBucketT
+PointT	.\Geometry.h	/^} PointT, *PPointT;$/;"	t	typeref:struct:_PointT
+PointsListEntryT	.\BucketHashing.h	/^} PointsListEntryT;$/;"	t	typeref:struct:_PointsListEntryT
+R	.\convertMNIST.cpp	/^double R = 100;$/;"	v
+R	.\exactNNs.cpp	/^RealT R;$/;"	v
+RANDOM_INCLUDED	.\Random.h	19;"	d
+REALLOC	.\BasicDefinitions.h	202;"	d
+RESULT_INIT_SIZE	.\LocalitySensitiveHashing.h	28;"	d
+RNNParametersT	.\LocalitySensitiveHashing.h	/^} RNNParametersT, *PRNNParametersT;$/;"	t	typeref:struct:_RNNParametersT
+RNearNeighborStructT	.\LocalitySensitiveHashing.h	/^} RNearNeighborStructT, *PRNearNeighborStructT;$/;"	t	typeref:struct:_RNearNeighborStructT
+RealT	.\BasicDefinitions.h	103;"	d
+RealT	.\BasicDefinitions.h	74;"	d
+RealT	.\BasicDefinitions.h	87;"	d
+SELFTUNING_INCLUDED	.\SelfTuning.h	19;"	d
+SQR	.\BasicDefinitions.h	120;"	d
+SQR	.\exactNNs.cpp	21;"	d	file:
+SQRT	.\BasicDefinitions.h	104;"	d
+SQRT	.\BasicDefinitions.h	75;"	d
+SQRT	.\BasicDefinitions.h	88;"	d
+TIMEV_END	.\BasicDefinitions.h	174;"	d
+TIMEV_END	.\BasicDefinitions.h	197;"	d
+TIMEV_START	.\BasicDefinitions.h	154;"	d
+TIMEV_START	.\BasicDefinitions.h	196;"	d
+TRUE	.\BasicDefinitions.h	33;"	d
+TWO_TO_32_MINUS_1	.\BucketHashing.h	98;"	d
+TimeVarT	.\BasicDefinitions.h	150;"	d
+UHF_CONTROL1_INDEX	.\BucketHashing.h	112;"	d
+UHF_MAIN_INDEX	.\BucketHashing.h	110;"	d
+UHF_NUMBER_OF_HASHES	.\BucketHashing.h	108;"	d
+UH_PRIME_DEFAULT	.\BucketHashing.h	92;"	d
+UHashStructureT	.\BucketHashing.h	/^} UHashStructureT, *PUHashStructureT;$/;"	t	typeref:struct:_UHashStructureT
+USE_PRECOMPUTED_HASHES	.\BucketHashing.h	105;"	d
+USE_SAME_UHASH_FUNCTIONS	.\BucketHashing.h	103;"	d
+UTIL_INCLUDED	.\Util.h	19;"	d
+Uns32T	.\BasicDefinitions.h	30;"	d
+_BucketEntryT	.\BucketHashing.h	/^typedef struct _BucketEntryT {$/;"	s
+_GBucketT	.\BucketHashing.h	/^typedef struct _GBucketT {$/;"	s
+_GeneralizedPGBucket	.\BucketHashing.h	/^typedef union _GeneralizedPGBucket {$/;"	u
+_HybridChainEntryT	.\BucketHashing.h	/^typedef union _HybridChainEntryT {$/;"	u
+_LSHFunctionT	.\LocalitySensitiveHashing.h	/^typedef struct _LSHFunctionT {$/;"	s
+_LinkPackedGBucketT	.\BucketHashing.h	/^typedef struct _LinkPackedGBucketT {$/;"	s
+_OverloadedPoint	.\BucketHashing.h	/^  struct _OverloadedPoint {$/;"	s	union:_HybridChainEntryT
+_PPointAndRealTStructT	.\Geometry.h	/^typedef struct _PPointAndRealTStructT {$/;"	s
+_PackedGBucketT	.\BucketHashing.h	/^typedef struct _PackedGBucketT {$/;"	s
+_PointT	.\Geometry.h	/^typedef struct _PointT {$/;"	s
+_PointsListEntryT	.\BucketHashing.h	/^typedef struct _PointsListEntryT {$/;"	s
+_RNNParametersT	.\LocalitySensitiveHashing.h	/^typedef struct _RNNParametersT {$/;"	s
+_RNearNeighborStructT	.\LocalitySensitiveHashing.h	/^typedef struct _RNearNeighborStructT {$/;"	s
+_UHashStructureT	.\BucketHashing.h	/^typedef struct _UHashStructureT {$/;"	s
+_bucketPoints	.\BucketHashing.h	/^  union _bucketPoints{$/;"	u	struct:_UHashStructureT
+_hashTableT	.\BucketHashing.h	/^  union _hashTableT {$/;"	u	struct:_UHashStructureT
+a	.\LocalitySensitiveHashing.h	/^  RealT *a;$/;"	m	struct:_LSHFunctionT
+addBucketEntry	.\BucketHashing.cpp	/^void addBucketEntry(PUHashStructureT uhash, IntT nBucketVectorPieces, Uns32T firstBucketVector[], Uns32T secondBucketVector[]\/*, PPointT point*\/ , Int32T pointIndex){$/;"	f
+addNewPointToPRNearNeighborStruct	.\LocalitySensitiveHashing.cpp	/^void addNewPointToPRNearNeighborStruct(PRNearNeighborStructT nnStruct, PPointT point){$/;"	f
+addPointToGBucket	.\BucketHashing.cpp	/^inline void addPointToGBucket(PUHashStructureT uhash, PGBucketT bucket\/*, PPointT point*\/ , Int32T pointIndex){$/;"	f
+availableTotalMemory	.\GlobalVars.h	/^DECLARE_EXTERN MemVarT availableTotalMemory EXTERN_INIT(= DEFAULT_MEMORY_MAX_AVAILABLE);$/;"	v
+b	.\LocalitySensitiveHashing.h	/^  RealT b;$/;"	m	struct:_LSHFunctionT
+batchAddRequest	.\LocalitySensitiveHashing.cpp	/^inline void batchAddRequest(PRNearNeighborStructT nnStruct, IntT i, IntT &firstIndex, IntT &secondIndex, PPointT point){$/;"	f
+bucketLength	.\BucketHashing.h	/^    Uns32T bucketLength : N_BITS_FOR_BUCKET_LENGTH;$/;"	m	struct:_HybridChainEntryT::_OverloadedPoint
+bucketPoints	.\BucketHashing.h	/^  } bucketPoints;$/;"	m	struct:_UHashStructureT	typeref:union:_UHashStructureT::_bucketPoints
+chainSizes	.\BucketHashing.h	/^  IntT *chainSizes;$/;"	m	struct:_UHashStructureT
+checkDataTypes	.\NearNeighbors.cpp	/^void checkDataTypes(){$/;"	f
+clearUHashStructure	.\BucketHashing.cpp	/^void clearUHashStructure(PUHashStructureT uhash){$/;"	f
+combinePrecomputedHashes	.\BucketHashing.cpp	/^inline Uns32T combinePrecomputedHashes(Uns32T *firstBucketVector, Uns32T *secondBucketVector, IntT nBucketVectorPieces, IntT uhfIndex){$/;"	f
+compareDoubles	.\convertMNIST.cpp	/^static int compareDoubles(const void *a, const void *b){$/;"	f	file:
+compareInt32T	.\LSHMain.cpp	/^int compareInt32T(const void *a, const void *b){$/;"	f
+comparePPointAndRealTStructT	.\Geometry.cpp	/^int comparePPointAndRealTStructT(const void *a, const void *b){$/;"	f
+computeBlockProductModDefaultPrime	.\BucketHashing.cpp	/^inline Uns32T computeBlockProductModDefaultPrime(Uns32T *a, Uns32T *(b[]), IntT nBPieces, IntT size){$/;"	f
+computeFunctionP	.\SelfTuning.cpp	/^RealT computeFunctionP(RealT w, RealT c){$/;"	f
+computeLfromKP	.\SelfTuning.cpp	/^IntT computeLfromKP(IntT k, RealT successProbability){$/;"	f
+computeMForULSH	.\SelfTuning.cpp	/^IntT computeMForULSH(IntT k, RealT successProbability){$/;"	f
+computeOptimalParameters	.\SelfTuning.cpp	/^RNNParametersT computeOptimalParameters(RealT R, $/;"	f
+computeProductModDefaultPrime	.\BucketHashing.cpp	/^inline Uns32T computeProductModDefaultPrime(Uns32T *a, Uns32T *b, IntT size){$/;"	f
+computeUHashFunction	.\BucketHashing.cpp	/^inline Uns32T computeUHashFunction(Uns32T *rndVector, Uns32T *(data[]), IntT nDataPieces, IntT size, Uns32T prime, Int32T hashTableSize){$/;"	f
+computeULSH	.\LocalitySensitiveHashing.cpp	/^inline void computeULSH(PRNearNeighborStructT nnStruct, IntT gNumber, RealT *point, Uns32T *vectorValue){$/;"	f
+controlHash1	.\BucketHashing.h	/^  Uns32T *controlHash1;$/;"	m	struct:_UHashStructureT
+controlValue1	.\BucketHashing.h	/^  Uns32T controlValue1;$/;"	m	struct:_GBucketT
+controlValue1	.\BucketHashing.h	/^  Uns32T controlValue1;$/;"	m	struct:_LinkPackedGBucketT
+controlValue1	.\BucketHashing.h	/^  Uns32T controlValue1;$/;"	m	struct:_PackedGBucketT
+controlValue1	.\BucketHashing.h	/^  Uns32T controlValue1;$/;"	m	union:_HybridChainEntryT
+coordinates	.\Geometry.h	/^  RealT *coordinates;$/;"	m	struct:_PointT
+copyOfVector	.\Util.cpp	/^IntT *copyOfVector(IntT size, IntT *from){$/;"	f
+copyVector	.\Util.cpp	/^void copyVector(IntT size, IntT *from, IntT *to){$/;"	f
+currentTime	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT currentTime EXTERN_INIT(= 0);$/;"	v
+dataSetPoints	.\LSHMain.cpp	/^PPointT *dataSetPoints = NULL;$/;"	v
+determineRTCoefficients	.\SelfTuning.cpp	/^void determineRTCoefficients(RealT thresholdR, $/;"	f
+dim	.\convertMNIST.cpp	/^int dim;$/;"	v
+dimension	.\LocalitySensitiveHashing.h	/^  IntT dimension; \/\/ dimension of points.$/;"	m	struct:_RNNParametersT
+dimension	.\LocalitySensitiveHashing.h	/^  IntT dimension; \/\/ dimension of points.$/;"	m	struct:_RNearNeighborStructT
+dimension	.\exactNNs.cpp	/^int dimension;$/;"	v
+dist	.\exactNNs.cpp	/^RealT dist(RealT *p1, RealT *p2){$/;"	f
+distComp	.\NearNeighbors.cpp	/^RealT lshPrecomp, uhashOver, distComp;$/;"	v
+distance	.\Geometry.cpp	/^RealT distance(IntT dimension, PPointT p1, PPointT p2){$/;"	f
+distance	.\convertMNIST.cpp	/^double distance(int i, int j){$/;"	f
+estimateNCollisions	.\SelfTuning.cpp	/^RealT estimateNCollisions(IntT nPoints, IntT dim, PPointT *dataSet, PPointT query, IntT k, IntT L, RealT R){$/;"	f
+estimateNCollisionsFromDSPoint	.\SelfTuning.cpp	/^RealT estimateNCollisionsFromDSPoint(IntT nPoints, IntT dim, PPointT *dataSet, IntT queryIndex, IntT k, IntT L, RealT R){$/;"	f
+estimateNDistinctCollisions	.\SelfTuning.cpp	/^RealT estimateNDistinctCollisions(IntT nPoints, IntT dim, PPointT *dataSet, PPointT query, BooleanT useUfunctions, IntT k, IntT LorM, RealT R){$/;"	f
+estimateNDistinctCollisionsFromDSPoint	.\SelfTuning.cpp	/^RealT estimateNDistinctCollisionsFromDSPoint(IntT nPoints, IntT dim, PPointT *dataSet, IntT queryIndex, BooleanT useUfunctions, IntT k, IntT LorM, RealT R){$/;"	f
+firstEntry	.\BucketHashing.h	/^  BucketEntryT firstEntry;$/;"	m	struct:_GBucketT
+freePRNearNeighborStruct	.\LocalitySensitiveHashing.cpp	/^void freePRNearNeighborStruct(PRNearNeighborStructT nnStruct){$/;"	f
+freeUHashStructure	.\BucketHashing.cpp	/^void freeUHashStructure(PUHashStructureT uhash, BooleanT freeHashFunctions){$/;"	f
+genCauchyRandom	.\Random.cpp	/^RealT genCauchyRandom(){$/;"	f
+genGaussianRandom	.\Random.cpp	/^RealT genGaussianRandom(){$/;"	f
+genRandomInt	.\Random.cpp	/^IntT genRandomInt(IntT rangeStart, IntT rangeEnd){$/;"	f
+genRandomInt	.\convertMNIST.cpp	/^int genRandomInt(int rangeStart, int rangeEnd){$/;"	f
+genRandomUns32	.\Random.cpp	/^Uns32T genRandomUns32(Uns32T rangeStart, Uns32T rangeEnd){$/;"	f
+genUniformRandom	.\Random.cpp	/^RealT genUniformRandom(RealT rangeStart, RealT rangeEnd){$/;"	f
+getAvailableMemory	.\Util.cpp	/^MemVarT getAvailableMemory(){$/;"	f
+getGBucket	.\BucketHashing.cpp	/^GeneralizedPGBucket getGBucket(PUHashStructureT uhash, IntT nBucketVectorPieces, Uns32T firstBucketVector[], Uns32T secondBucketVector[]){$/;"	f
+getNearNeighborsFromPRNearNeighborStruct	.\LocalitySensitiveHashing.cpp	/^Int32T getNearNeighborsFromPRNearNeighborStruct(PRNearNeighborStructT nnStruct, PPointT query, PPointT *(&result), Int32T &resultSize){$/;"	f
+getRNearNeighbors	.\NearNeighbors.cpp	/^Int32T getRNearNeighbors(PRNearNeighborStructT nnStruct, PPointT queryPoint, PPointT *(&result), Int32T &resultSize){$/;"	f
+hashTable	.\BucketHashing.h	/^  } hashTable;$/;"	m	struct:_UHashStructureT	typeref:union:_UHashStructureT::_hashTableT
+hashTableSize	.\BucketHashing.h	/^  Int32T hashTableSize;$/;"	m	struct:_UHashStructureT
+hashedBuckets	.\LocalitySensitiveHashing.h	/^  PUHashStructureT *hashedBuckets;$/;"	m	struct:_RNearNeighborStructT
+hashedDataLength	.\BucketHashing.h	/^  IntT hashedDataLength;\/\/ the number of IntT's in an element from U (U is the set of values to hash).$/;"	m	struct:_UHashStructureT
+hfTuplesLength	.\LocalitySensitiveHashing.h	/^  IntT hfTuplesLength;$/;"	m	struct:_RNearNeighborStructT
+hybridChainsStorage	.\BucketHashing.h	/^  HybridChainEntryT *hybridChainsStorage;$/;"	m	struct:_UHashStructureT
+hybridGBucket	.\BucketHashing.h	/^  PHybridChainEntryT hybridGBucket;$/;"	m	union:_GeneralizedPGBucket
+hybridHashTable	.\BucketHashing.h	/^    PHybridChainEntryT *hybridHashTable;$/;"	m	union:_UHashStructureT::_hashTableT
+index	.\Geometry.h	/^  IntT index; \/\/ the index of this point in the dataset list of points$/;"	m	struct:_PointT
+indexStart	.\BucketHashing.h	/^  Int32T indexStart;$/;"	m	struct:_LinkPackedGBucketT
+indexStart	.\BucketHashing.h	/^  Int32T indexStart;$/;"	m	struct:_PackedGBucketT
+initHashFunctions	.\LocalitySensitiveHashing.cpp	/^void initHashFunctions(PRNearNeighborStructT nnStruct){$/;"	f
+initLSH	.\LocalitySensitiveHashing.cpp	/^PRNearNeighborStructT initLSH(RNNParametersT algParameters, Int32T nPointsEstimate){$/;"	f
+initLSH_WithDataSet	.\LocalitySensitiveHashing.cpp	/^PRNearNeighborStructT initLSH_WithDataSet(RNNParametersT algParameters, Int32T nPoints, PPointT *dataSet){$/;"	f
+initRNearNeighbor	.\NearNeighbors.cpp	/^PRNearNeighborStructT initRNearNeighbor(RealT thresholdR, RealT successProbability, Int32T nPointsEstimate){$/;"	f
+initRandom	.\Random.cpp	/^void initRandom(){$/;"	f
+initSelfTunedRNearNeighborWithDataSet	.\NearNeighbors.cpp	/^PRNearNeighborStructT initSelfTunedRNearNeighborWithDataSet(RealT thresholdR, $/;"	f
+initializeLSHGlobal	.\NearNeighbors.cpp	/^void initializeLSHGlobal(){$/;"	f
+initializePRNearNeighborFields	.\LocalitySensitiveHashing.cpp	/^PRNearNeighborStructT initializePRNearNeighborFields(RNNParametersT algParameters, Int32T nPointsEstimate){$/;"	f
+isDistanceSqrLeq	.\LocalitySensitiveHashing.cpp	/^inline BooleanT isDistanceSqrLeq(IntT dimension, PPointT p1, PPointT p2, RealT threshold){$/;"	f
+isDistanceSqrLeq	.\exactNNs.cpp	/^int isDistanceSqrLeq(RealT *p1, RealT *p2, RealT threshold){$/;"	f
+isLastBucket	.\BucketHashing.h	/^    Uns32T isLastBucket : 1;$/;"	m	struct:_HybridChainEntryT::_OverloadedPoint
+isLastPoint	.\BucketHashing.h	/^    Uns32T isLastPoint : 1;$/;"	m	struct:_HybridChainEntryT::_OverloadedPoint
+linkGBucket	.\BucketHashing.h	/^  PLinkPackedGBucketT linkGBucket;$/;"	m	union:_GeneralizedPGBucket
+linkHashTable	.\BucketHashing.h	/^    LinkPackedGBucketT **linkHashTable;$/;"	m	union:_UHashStructureT::_hashTableT
+listOfRadii	.\LSHMain.cpp	/^RealT *listOfRadii = NULL;$/;"	v
+listOfRadii	.\exactNNs.cpp	/^RealT *listOfRadii = NULL;$/;"	v
+llGBucket	.\BucketHashing.h	/^  PGBucketT llGBucket;$/;"	m	union:_GeneralizedPGBucket
+llHashTable	.\BucketHashing.h	/^    PGBucketT *llHashTable;$/;"	m	union:_UHashStructureT::_hashTableT
+lowerR	.\convertMNIST.cpp	/^double lowerR;$/;"	v
+lshFunctions	.\LocalitySensitiveHashing.h	/^  LSHFunctionT **lshFunctions;$/;"	m	struct:_RNearNeighborStructT
+lshPrecomp	.\NearNeighbors.cpp	/^RealT lshPrecomp, uhashOver, distComp;$/;"	v
+main	.\LSHMain.cpp	/^int main(int nargs, char **args){$/;"	f
+main	.\compareOutputs.cpp	/^IntT main(IntT nargs, char **args){$/;"	f
+main	.\convertMNIST.cpp	/^int main(){$/;"	f
+main	.\exactNNs.cpp	/^int main(int nargs, char **args){$/;"	f
+main	.\genDS.cpp	/^int main(int nargs, char **args){$/;"	f
+main	.\genPlantedDS.cpp	/^int main(int nargs, char **args){$/;"	f
+main	.\testFloat.cpp	/^int main(){$/;"	f
+mainHashA	.\BucketHashing.h	/^  Uns32T *mainHashA;$/;"	m	struct:_UHashStructureT
+markedPoints	.\LocalitySensitiveHashing.h	/^  BooleanT *markedPoints;$/;"	m	struct:_RNearNeighborStructT
+markedPointsIndeces	.\LocalitySensitiveHashing.h	/^  Int32T *markedPointsIndeces;$/;"	m	struct:_RNearNeighborStructT
+memRatiosForNNStructs	.\LSHMain.cpp	/^RealT *memRatiosForNNStructs = NULL;$/;"	v
+nAllocatedBEntries	.\GlobalVars.h	/^DECLARE_EXTERN IntT nAllocatedBEntries EXTERN_INIT(= 0);$/;"	v
+nAllocatedGBuckets	.\GlobalVars.h	/^DECLARE_EXTERN IntT nAllocatedGBuckets EXTERN_INIT(= 0);$/;"	v
+nBucketsInChains	.\GlobalVars.h	/^DECLARE_EXTERN IntT nBucketsInChains EXTERN_INIT(= 0);$/;"	v
+nGBuckets	.\GlobalVars.h	/^DECLARE_EXTERN IntT nGBuckets EXTERN_INIT(= 0);$/;"	v
+nHFTuples	.\LocalitySensitiveHashing.h	/^  IntT nHFTuples;$/;"	m	struct:_RNearNeighborStructT
+nHashedBuckets	.\BucketHashing.h	/^  Int32T nHashedBuckets;$/;"	m	struct:_UHashStructureT
+nHashedPoints	.\BucketHashing.h	/^  Int32T nHashedPoints;$/;"	m	struct:_UHashStructureT
+nOfDistComps	.\GlobalVars.h	/^DECLARE_EXTERN IntT nOfDistComps EXTERN_INIT(= 0);$/;"	v
+nPoints	.\LSHMain.cpp	/^IntT nPoints = 0;$/;"	v
+nPoints	.\LocalitySensitiveHashing.h	/^  Int32T nPoints;$/;"	m	struct:_RNearNeighborStructT
+nPoints	.\convertMNIST.cpp	/^int nPoints;$/;"	v
+nPoints	.\exactNNs.cpp	/^int nPoints;$/;"	v
+nPointsInBucket	.\BucketHashing.h	/^  Int32T nPointsInBucket;$/;"	m	struct:_PackedGBucketT
+nQueries	.\exactNNs.cpp	/^int nQueries;$/;"	v
+nRadii	.\LSHMain.cpp	/^IntT nRadii = 0;$/;"	v
+nRadii	.\exactNNs.cpp	/^IntT nRadii = 0;$/;"	v
+nearNeighbors	.\exactNNs.cpp	/^int *nearNeighbors;$/;"	v
+newGBucket	.\BucketHashing.cpp	/^inline PGBucketT newGBucket(PUHashStructureT uhash, Uns32T control1, \/*PPointT point, *\/ Int32T pointIndex, PGBucketT nextGBucket){$/;"	f
+newUHashStructure	.\BucketHashing.cpp	/^PUHashStructureT newUHashStructure(IntT typeHT, Int32T hashTableSize, IntT bucketVectorLength, BooleanT useExternalUHFs, Uns32T *(&mainHashA), Uns32T *(&controlHash1), PUHashStructureT modelHT){$/;"	f
+nextEntry	.\BucketHashing.h	/^  _BucketEntryT *nextEntry;$/;"	m	struct:_BucketEntryT
+nextGBucketInChain	.\BucketHashing.h	/^  _GBucketT *nextGBucketInChain;$/;"	m	struct:_GBucketT
+nextPoint	.\BucketHashing.h	/^  Int32T nextPoint;$/;"	m	struct:_PointsListEntryT
+noExpensiveTiming	.\GlobalVars.h	/^DECLARE_EXTERN BooleanT noExpensiveTiming  EXTERN_INIT(= FALSE);$/;"	v
+norm	.\exactNNs.cpp	/^RealT norm(int dimension, RealT *p1){$/;"	f
+optimizeLSH	.\LocalitySensitiveHashing.cpp	/^void optimizeLSH(PRNearNeighborStructT nnStruct){$/;"	f
+optimizeUHashStructure	.\BucketHashing.cpp	/^void optimizeUHashStructure(PUHashStructureT uhash, PointsListEntryT *(&auxPtsList)){$/;"	f
+p	.\exactNNs.cpp	/^RealT p;$/;"	v
+packedGBucket	.\BucketHashing.h	/^  PPackedGBucketT packedGBucket;$/;"	m	union:_GeneralizedPGBucket
+packedHashTable	.\BucketHashing.h	/^    PackedGBucketT **packedHashTable;$/;"	m	union:_UHashStructureT::_hashTableT
+parameterK	.\LocalitySensitiveHashing.h	/^  IntT parameterK; \/\/ parameter K of the algorithm.$/;"	m	struct:_RNNParametersT
+parameterK	.\LocalitySensitiveHashing.h	/^  IntT parameterK; \/\/ parameter K of the algorithm.$/;"	m	struct:_RNearNeighborStructT
+parameterL	.\LocalitySensitiveHashing.h	/^  IntT parameterL; \/\/ parameter L of the algorithm.$/;"	m	struct:_RNNParametersT
+parameterL	.\LocalitySensitiveHashing.h	/^  IntT parameterL; \/\/ parameter L of the algorithm.$/;"	m	struct:_RNearNeighborStructT
+parameterM	.\LocalitySensitiveHashing.h	/^  IntT parameterM;$/;"	m	struct:_RNNParametersT
+parameterR	.\LocalitySensitiveHashing.h	/^  RealT parameterR; \/\/ parameter R of the algorithm.$/;"	m	struct:_RNNParametersT
+parameterR	.\LocalitySensitiveHashing.h	/^  RealT parameterR; \/\/ parameter R of the algorithm.$/;"	m	struct:_RNearNeighborStructT
+parameterR2	.\LocalitySensitiveHashing.h	/^  RealT parameterR2; \/\/ = parameterR^2$/;"	m	struct:_RNNParametersT
+parameterR2	.\LocalitySensitiveHashing.h	/^  RealT parameterR2; \/\/ = parameterR^2$/;"	m	struct:_RNearNeighborStructT
+parameterT	.\LocalitySensitiveHashing.h	/^  IntT parameterT; \/\/ parameter T of the algorithm.$/;"	m	struct:_RNNParametersT
+parameterT	.\LocalitySensitiveHashing.h	/^  IntT parameterT; \/\/ parameter T of the algorithm.$/;"	m	struct:_RNearNeighborStructT
+parameterW	.\LocalitySensitiveHashing.h	/^  RealT parameterW; \/\/ parameter W of the algorithm.$/;"	m	struct:_RNNParametersT
+parameterW	.\LocalitySensitiveHashing.h	/^  RealT parameterW; \/\/ parameter W of the algorithm.$/;"	m	struct:_RNearNeighborStructT
+point	.\BucketHashing.h	/^  PPointT point;$/;"	m	struct:_PointsListEntryT
+point	.\BucketHashing.h	/^  } point;$/;"	m	union:_HybridChainEntryT	typeref:struct:_HybridChainEntryT::_OverloadedPoint
+pointIndex	.\BucketHashing.h	/^    Uns32T pointIndex : N_BITS_PER_POINT_INDEX;$/;"	m	struct:_HybridChainEntryT::_OverloadedPoint
+pointIndex	.\BucketHashing.h	/^  Int32T pointIndex;$/;"	m	struct:_BucketEntryT
+pointULSHVectors	.\LocalitySensitiveHashing.h	/^  Uns32T **pointULSHVectors;$/;"	m	struct:_RNearNeighborStructT
+points	.\LocalitySensitiveHashing.h	/^  PPointT *points;$/;"	m	struct:_RNearNeighborStructT
+points	.\convertMNIST.cpp	/^double **points;$/;"	v
+points	.\exactNNs.cpp	/^RealT **points;$/;"	v
+pointsArray	.\BucketHashing.h	/^    PPointT *pointsArray;$/;"	m	union:_UHashStructureT::_bucketPoints
+pointsArraySize	.\LocalitySensitiveHashing.h	/^  Int32T pointsArraySize;$/;"	m	struct:_RNearNeighborStructT
+pointsDimension	.\LSHMain.cpp	/^IntT pointsDimension = 0;$/;"	v
+pointsList	.\BucketHashing.h	/^    PointsListEntryT *pointsList;$/;"	m	union:_UHashStructureT::_bucketPoints
+ppoint	.\Geometry.h	/^  PPointT ppoint;$/;"	m	struct:_PPointAndRealTStructT
+precomputeUHFsForULSH	.\BucketHashing.cpp	/^void precomputeUHFsForULSH(PUHashStructureT uhash, Uns32T *uVector, IntT length, Uns32T *result){$/;"	f
+precomputedHashesOfULSHs	.\LocalitySensitiveHashing.h	/^  Uns32T **precomputedHashesOfULSHs;$/;"	m	struct:_RNearNeighborStructT
+preparePointAdding	.\LocalitySensitiveHashing.cpp	/^inline void preparePointAdding(PRNearNeighborStructT nnStruct, PUHashStructureT uhash, PPointT point){$/;"	f
+prime	.\BucketHashing.h	/^  Uns32T prime; \/\/ the prime used for the universal hash functions.$/;"	m	struct:_UHashStructureT
+printIntVector	.\Util.cpp	/^void printIntVector(char *s, IntT size, IntT *v){$/;"	f
+printP	.\convertMNIST.cpp	/^void printP(int i){$/;"	f
+printPoints	.\convertMNIST.cpp	/^void printPoints(char *file){$/;"	f
+printRNNParameters	.\LocalitySensitiveHashing.cpp	/^void printRNNParameters(FILE *output, RNNParametersT parameters){$/;"	f
+printRealVector	.\Util.cpp	/^void printRealVector(char *s, IntT size, RealT *v){$/;"	f
+printRealVector1	.\exactNNs.cpp	/^void printRealVector1(char *s, int size, RealT *v){$/;"	f
+query	.\exactNNs.cpp	/^RealT *query;$/;"	v
+readDataSetFromFile	.\LSHMain.cpp	/^void readDataSetFromFile(char *filename){$/;"	f
+readPoint	.\LSHMain.cpp	/^inline PPointT readPoint(FILE *fileHandle){$/;"	f
+readPoints	.\exactNNs.cpp	/^void readPoints(char *filename){$/;"	f
+readRNNParameters	.\LocalitySensitiveHashing.cpp	/^RNNParametersT readRNNParameters(FILE *input){$/;"	f
+real	.\Geometry.h	/^  RealT real;$/;"	m	struct:_PPointAndRealTStructT
+reducedPoint	.\LocalitySensitiveHashing.h	/^  RealT *reducedPoint;$/;"	m	struct:_RNearNeighborStructT
+reportingResult	.\LocalitySensitiveHashing.h	/^  BooleanT reportingResult;$/;"	m	struct:_RNearNeighborStructT
+rngState	.\Random.cpp	/^char rngState[256];$/;"	v
+sBuffer	.\LSHMain.cpp	/^char sBuffer[600000];$/;"	v
+setResultReporting	.\LocalitySensitiveHashing.cpp	/^void setResultReporting(PRNearNeighborStructT nnStruct, BooleanT reportingResult){$/;"	f
+sizeMarkedPoints	.\LocalitySensitiveHashing.h	/^  IntT sizeMarkedPoints;$/;"	m	struct:_RNearNeighborStructT
+sortQueryPointsByRadii	.\SelfTuning.cpp	/^void sortQueryPointsByRadii(IntT dimension,$/;"	f
+sqrLength	.\Geometry.h	/^  RealT sqrLength; \/\/ the square of the length of the vector$/;"	m	struct:_PointT
+successProbability	.\LSHMain.cpp	/^RealT successProbability = 0.9;$/;"	v
+successProbability	.\LocalitySensitiveHashing.h	/^  RealT successProbability; \/\/ the success probability 1-\\delta$/;"	m	struct:_RNNParametersT
+timeBucketCreation	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeBucketCreation;$/;"	v
+timeBucketIntoUH	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeBucketIntoUH;$/;"	v
+timeChainTraversal	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeChainTraversal;$/;"	v
+timeComputeULSH	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeComputeULSH;$/;"	v
+timeCopyingULSHs	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeCopyingULSHs;$/;"	v
+timeCycleBucket	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeCycleBucket;$/;"	v
+timeCycleProc	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeCycleProc;$/;"	v
+timeDistanceComputation	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeDistanceComputation;$/;"	v
+timeGBHash	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeGBHash;$/;"	v
+timeGetBucket	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeGetBucket;$/;"	v
+timePrecomputeHash	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timePrecomputeHash;$/;"	v
+timeRNNQuery	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeRNNQuery;$/;"	v
+timeResultStoring	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeResultStoring;$/;"	v
+timeTotalBuckets	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeTotalBuckets;$/;"	v
+timeUnmarking	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timeUnmarking;$/;"	v
+timevSpeed	.\GlobalVars.h	/^DECLARE_EXTERN TimeVarT timevSpeed EXTERN_INIT(= 0);$/;"	v
+timingOn	.\GlobalVars.h	/^DECLARE_EXTERN BooleanT timingOn EXTERN_INIT(= TRUE);$/;"	v
+totalAllocatedMemory	.\GlobalVars.h	/^DECLARE_EXTERN MemVarT totalAllocatedMemory EXTERN_INIT(= 0);$/;"	v
+transformMemRatios	.\LSHMain.cpp	/^void transformMemRatios(){$/;"	f
+tuneTimeFunctions	.\SelfTuning.cpp	/^void tuneTimeFunctions(){$/;"	f
+typeHT	.\BucketHashing.h	/^  IntT typeHT;$/;"	m	struct:_UHashStructureT
+typeHT	.\LocalitySensitiveHashing.h	/^  IntT typeHT;$/;"	m	struct:_RNNParametersT
+uhashOver	.\NearNeighbors.cpp	/^RealT lshPrecomp, uhashOver, distComp;$/;"	v
+unusedPBucketEntrys	.\BucketHashing.h	/^  PBucketEntryT unusedPBucketEntrys;$/;"	m	struct:_UHashStructureT
+unusedPGBuckets	.\BucketHashing.h	/^  PGBucketT unusedPGBuckets;$/;"	m	struct:_UHashStructureT
+upperR	.\convertMNIST.cpp	/^double upperR;$/;"	v
+usage	.\LSHMain.cpp	/^void usage(char *programName){$/;"	f
+usage	.\compareOutputs.cpp	/^void usage(char *programName){$/;"	f
+usage	.\exactNNs.cpp	/^void usage(char *programName){$/;"	f
+usage	.\genDS.cpp	/^void usage(char *programName){$/;"	f
+usage	.\genPlantedDS.cpp	/^void usage(char *programName){$/;"	f
+useUfunctions	.\LocalitySensitiveHashing.h	/^  BooleanT useUfunctions;$/;"	m	struct:_RNNParametersT
+useUfunctions	.\LocalitySensitiveHashing.h	/^  BooleanT useUfunctions;$/;"	m	struct:_RNearNeighborStructT
+vectorsEqual	.\Util.cpp	/^BooleanT vectorsEqual(IntT size, IntT *v1, IntT *v2){$/;"	f
